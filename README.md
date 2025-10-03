@@ -1,5 +1,26 @@
 ## Hi there 👋
 
+I am Dev2023-Op, my github account was created in 2023 hence the name.
+
+i am an ethical havker in training.
+
+in my free time i:
+  - create lightshows
+  - code
+  - teach my friends who are also into it
+
+i am currently working on:
+  - the 2025 christmas lightshow
+
+
+
+
+
+
+
+
+
+
 <!--
 **Dev2023-Op/Dev2023-Op** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
