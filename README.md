@@ -2,7 +2,7 @@
 
 I am Dev2023-Op, my github account was created in 2023 hence the name.
 
-i am an ethical havker in training.
+i am an ethical hacker in training.
 
 in my free time i:
   - create lightshows
