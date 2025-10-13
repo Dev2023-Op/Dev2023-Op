@@ -12,6 +12,8 @@ in my free time i:
 i am currently working on:
   - the 2025 christmas lightshow
 
+My tryhackme badge:
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4938318" style="border:none;">
 
 
 
