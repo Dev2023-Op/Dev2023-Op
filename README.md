@@ -11,6 +11,7 @@ in my free time i:
 
 i am currently working on:
   - the 2025 christmas lightshow
+  - young-haxxers.github.io
 
 My tryhackme badge:
 
