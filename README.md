@@ -13,12 +13,6 @@ i am currently working on:
   - the 2025 christmas lightshow
   - young-haxxers.github.io
 
-My tryhackme badge:
-
-<a href="https://tryhackme.com/p/oross21">
-	<img src="https://tryhackme-badges.s3.amazonaws.com/oross21.png" alt="oross21"></img>
-</a>
-
 
 
 
