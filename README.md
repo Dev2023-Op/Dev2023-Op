@@ -16,7 +16,7 @@ i am currently working on:
 
 
 <a href="https://tryhackme.com/p/oross21">
-	<img src="https://tryhackme-badges.s3.amazonaws.com/oross21.png" alt="Your Image Badge" />
+	<img src="https://tryhackme-badges.s3.amazonaws.com/oross21.png" alt="badge" />
 </a>
 
 
