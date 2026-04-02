@@ -13,6 +13,7 @@ i am currently working on:
   - the 2025 christmas lightshow
   - young-haxxers.github.io
 
+Im currently on holidays in Vietnam
 
 
 <a href="https://tryhackme.com/p/oross21">
