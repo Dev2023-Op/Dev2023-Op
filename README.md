@@ -4,17 +4,13 @@ I am Dev2023-Op, my github account was created in 2023 hence the name.
 
 i am an ethical hacker in training.
 
-in my free time i:
-  - create lightshows
-  - code
-  - teach my friends who are also into it
-
 i am currently working on:
-  - the 2025 christmas lightshow
-  - young-haxxers.github.io
+  - the 2026 christmas lightshow
+  - sigmahq
+  - Coast Guard phishing list
 
-Im currently on holidays in Vietnam
-
+if you want to contact me:
+w25067sn@oross21.anonaddy.me
 
 <a href="https://tryhackme.com/p/oross21">
 	<img src="oross21.png" alt="badge" />
