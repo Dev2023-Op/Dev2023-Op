@@ -6,7 +6,6 @@ i am an ethical hacker in training.
 
 i am currently working on:
   - the 2026 christmas lightshow
-  - sigmahq
   - Coast Guard phishing list
 
 if you want to contact me:
